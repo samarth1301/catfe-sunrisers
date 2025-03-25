@@ -57,3 +57,4 @@ Describe the major technical or non-technical challenges your team encountered.
 
 ## 👥 Team
 - **Samarth Singh** - [GitHub](https://github.com/samarth1301) | [LinkedIn](https://www.linkedin.com/in/samarth-singh-a22247181/)
+- **Dhiraj Inti** - [GitHub](https://github.com/dhiraj-inti) | [LinkedIn](https://www.linkedin.com/in/dhiraj-inti/)
